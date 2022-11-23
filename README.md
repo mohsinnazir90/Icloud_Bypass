@@ -8,6 +8,3 @@ Easy to use follow these steps :
 * Use libimobiledevice *ideviceactivation* to **Bypass** Your iDevice
 * example of command : ideviceactivation activate -s example.com/iboy.php
 * Enjoy Your iDevice is bypassed!
-
-**Donate** : https://www.paypal.me/iboyinc
-**Twitter** : https://twitter.com/iboy_inc
